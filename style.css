@@ -1,31 +1,39 @@
 h1 {
   color: white;
 }
+
+div {
+  background-color: blanchedalmond;
+}
+
 h2 {
   background-color: beige;
   width: 25%;
 }
+
 section {
   background-color: tan;
   width: 25%;
   border: 5% 5% 5% 5%;
 }
-div {
-  background-color: blanchedalmond;
-}
+
 ul {
   background-color: tan;
 }
+
 li {
   background-color: tan;
 }
+
 ol {
   background-color: tan;
 }
+
 img {
   width: 25%;
   padding: 5% 5% 5% 5%;
 }
+
 * {
   margin: 5% 5% 5% 5%;
 }
