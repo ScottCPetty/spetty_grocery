@@ -4,6 +4,7 @@ h1 {
 
 div {
   background-color: blanchedalmond;
+  display: flex;
 }
 
 h2 {
@@ -31,9 +32,8 @@ ol {
 
 img {
   width: 25%;
-  padding: 5% 5% 5% 5%;
 }
 
 * {
-  margin: 5% 5% 5% 5%;
+  margin: 2% 2% 2% 2%;
 }
